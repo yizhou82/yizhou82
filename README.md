@@ -41,7 +41,7 @@ In my free time, I enjoy exploring databases and the JavaScript world (React/Nod
 
 
 ### 🌈 Fun Facts
-When I'm not immersed in lines of code, you can find me playing the piano, at the gym/pool, or at the kitchen learning new pasta recipes
+When I'm not immersed in lines of code, you can find me playing the piano, at the gym/pool, or at the kitchen learning new pasta recipes.
 
 ### 🚧 Under Construction
 
