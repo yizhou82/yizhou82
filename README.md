@@ -23,7 +23,7 @@ I'm on an exciting journey to merge my passion for technology with my love for p
 
 💡 Programming Languages: Java, Python, C/C++, HTML/CSS/JavaScript, Systems Verilog
 
-🛠️ Tools & Technologies: Git/Github, Linux, Arduino, WireShark, FPGA, Microsoft Excel/Office
+🛠️ Tools & Technologies: Git/Github, Linux, Arduino, WireShark, ModelSim, Quartus, FPGA, Microsoft Excel/Office
 
 
 ### 👨‍💻 Projects
