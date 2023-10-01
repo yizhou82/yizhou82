@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 About Me
-I'm on an exciting journey to merge my passion for technology with my love for problem-solving. As a perpetual learner, I thrive on the challenges presented by software development and embedded systems. My goal is to contribute my skills and creativity to make a positive impact on the tech world.
+My name can be pronounced as "Yee-zoo" or the chinese way "yizhou". Feel free to use whichever pronunciation you're most comfortable with! I'm on an exciting journey to merge my passion for technology with my love for problem-solving. As a perpetual learner, I thrive on the challenges presented by software development and embedded systems. My goal is to contribute my skills and creativity to make a positive impact on the tech world.
 
 
 ### 🌟 Skills
